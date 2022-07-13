@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-12:14:53	56/56	---M--	301	error ('Moved%20Permanently')	text/plain	date:Mon,%2004%20Jul%202022%2006:44:53%20GMT	http://elito-next.netlify.app/robots.txt		(from )
-12:14:53	46/46	---M--	301	error ('Moved%20Permanently')	text/plain	date:Mon,%2004%20Jul%202022%2006:44:53%20GMT	http://elito-next.netlify.app/	C:/Users/icong/Desktop/theme/portfolio/elito-next.netlify.app/index.html	(from )
